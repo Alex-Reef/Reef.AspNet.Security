@@ -68,7 +68,7 @@ The `JwtConfiguration` class includes the following settings:
 - **AccessTokenExpiration** - Token expiration time in seconds.
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0 License.
 
 ## 📧 Contact
 If you have any questions or suggestions, create an issue or contact me via GitHub.
